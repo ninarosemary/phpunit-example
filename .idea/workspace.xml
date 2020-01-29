@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="826537fd-2062-4aaf-837a-2f72e30de9b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1X1qxdpPm9kP92wf13hSRcSpfKP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Calculator/Throwables" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Calculator/Throwables" />
+      <recent name="$PROJECT_DIR$/app/Calculator" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app/code" />
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RemoteSynchronizer">
+    <option name="targetMappings">
+      <list>
+        <TargetMappings>
+          <option name="name" value="Default" />
+        </TargetMappings>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.tests">
+    <configuration name="Calculator" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/app/Calculator" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner directory="$PROJECT_DIR$/tests" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.tests" />
+        <item itemvalue="PHPUnit.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="826537fd-2062-4aaf-837a-2f72e30de9b4" name="Default Changelist" comment="" />
+      <created>1580224195485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580224195485</updated>
+      <workItem from="1580224196917" duration="2193000" />
+      <workItem from="1580283011410" duration="10984000" />
+      <workItem from="1580294027280" duration="12214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="1262" width="737" height="740" key="#Calculator" timestamp="1580293795675">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="620" y="1262" width="737" height="740" key="#Calculator/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1580293795675" />
+    <state x="418" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580224302355">
+      <screen x="67" y="0" width="1853" height="1080" />
+    </state>
+    <state x="418" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1580224302355" />
+    <state x="620" y="1262" width="737" height="740" key="#tests" timestamp="1580293807793">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="620" y="1262" width="737" height="740" key="#tests/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1580293807793" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1580294008092">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1580294008092" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1580294008092">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1580294008092" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1580294008092">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1580294008092" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1580294008092">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1580294008092" />
+    <state x="482" y="1267" key="SettingsEditor" timestamp="1580293923785">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="482" y="1267" key="SettingsEditor/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1580293923785" />
+    <state x="656" y="1337" width="672" height="678" key="search.everywhere.popup" timestamp="1580293275451">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="656" y="1337" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/67.0.1853.1080@0.1080.1920.1080" timestamp="1580293275451" />
+  </component>
+</project>

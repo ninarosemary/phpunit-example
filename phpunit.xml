@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Bootstrap: Boots everything up before tests run -->
+<!-- Colors: Add colors to console -->
+<!-- Verbose: More ouput; useful for debugging  -->
+<!-- StopOnFailure: Stops when first test fails  -->
+<phpunit bootstrap="vendor/autoload.php"
+         colors="true"
+         verbose="true"
+         stopOnFailure="false">
+    <testsuites>
+        <testsuite name="Test suite">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
